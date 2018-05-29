@@ -1,3 +1,5 @@
+[Apple screenfetch](https://github.com/miqianmimi/Iterm2-Color-Style/blob/master/apple.png)
+
 # iterm2的配置三个主题：
 
 * 搭建请参考以下两个网页
