@@ -32,3 +32,5 @@ PS:
 
 [【2】修改后的~/.zshrc配置](https://github.com/miqianmimi/iterm-style/blob/master/zshrc)
 
+haha 两个账号配置好了 2018.8.31
+
